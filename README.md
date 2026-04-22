@@ -1,42 +1,42 @@
 # AI USAGE DECLARATION
 
 
-Name:Sadia Shobnom
-Student ID:23241096
-Assignment:Project
-Date:22.04.26
+Name:Sadia Shobnom\
+Student ID:23241096\
+Assignment:Project\
+Date:22.04.26\
 
 
 ------------------------------------------------------------
 1. AI TOOLS USED (check all that apply)
 ------------------------------------------------------------
-[ ] None
-[✔️] ChatGPT
-[ ] GitHub Copilot
-[ ] Google Gemini
-[ ] Claude
-[ ] Cursor
+[ ] None\
+[✔️] ChatGPT\
+[ ] GitHub Copilot\
+[ ] Google Gemini\
+[ ] Claude\
+[ ] Cursor\
 [ ] Other: ________________
 
 
 ------------------------------------------------------------
 2. PURPOSE OF AI USE (check all that apply)
 ------------------------------------------------------------
-[✔️] Learning/understanding concepts
-[✔️] Debugging my code
-[ ] Generating code snippets
-[ ] Writing text content
-[ ] Design/styling ideas
-[ ] Image generation
+[✔️] Learning/understanding concepts\
+[✔️] Debugging my code\
+[ ] Generating code snippets\
+[ ] Writing text content\
+[ ] Design/styling ideas\
+[ ] Image generation\
 [ ] Other: ________________
 
 
 ------------------------------------------------------------
 3. DESCRIPTION OF AI USE
 ------------------------------------------------------------
-Briefly describe what you used AI for and how:
-I used W3school for understanding the php module. 
-Moreover, I used chatgpt to understand how the random function works,
+Briefly describe what you used AI for and how: \
+I used W3school for understanding the php module. \
+Moreover, I used chatgpt to understand how the random function works,\
 and why it is good for this specific task.
 
 
@@ -47,11 +47,11 @@ and why it is good for this specific task.
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
 ------------------------------------------------------------
-List specific files/sections where AI helped significantly:
+List specific files/sections where AI helped significantly:\
 
 
-File: _________________ Section: _________________
-File: _________________ Section: _________________
+File: _________________ Section: _________________\
+File: _________________ Section: _________________\
 File: _________________ Section: _________________
 
 
@@ -65,5 +65,5 @@ I declare that:
 - I take full responsibility for my submission
 
 
-Signature: shabnam
+Signature: shabnam\
 Date: 22.04.2026
